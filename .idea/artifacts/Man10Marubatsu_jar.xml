@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Man10Marubatsu:jar">
+    <output-path>$PROJECT_DIR$/../spigot/plugins/</output-path>
+    <root id="archive" name="Man10Marubatsu.jar">
+      <element id="module-output" name="Man10Marubatsu" />
+    </root>
+  </artifact>
+</component>

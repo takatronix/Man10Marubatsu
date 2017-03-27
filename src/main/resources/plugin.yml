@@ -1,0 +1,11 @@
+name: Man10Marubatsu
+version: ${project.version}
+main: red.man10.marubatsu.MarubatsuPlugin
+prefix: Man10Marubatsu
+description: Marubatsu Game
+website: http://man10.red
+commands:
+    mbatsu:
+        description:
+        usage:
+        permission: man10.mbatsu
